@@ -1,0 +1,10 @@
+body { background-color:aqua;}
+
+h1{color : black; text-align:center;}
+ul{text-align:center;}
+
+a:link{color:orange;}
+a:visited{color:blue;}
+a:hover{color:red; text-decoration:greenyellow;}
+a:active{color:red;}
+
